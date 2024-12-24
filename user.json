@@ -1,5 +1,14 @@
-{
-    "firstName" : "John",
-    "lastName" : "Doe",
-    "age" : 25
-}
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 25
+  },
+
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "age": 30,
+    "max": 45
+  }
+]
